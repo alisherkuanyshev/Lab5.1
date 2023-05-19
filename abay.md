@@ -6,5 +6,5 @@ zhiger
 
 alisher kuanyshev
 
-cs2235
+cs2235 ;
 
